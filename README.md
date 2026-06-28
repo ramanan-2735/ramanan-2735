@@ -72,8 +72,8 @@
 
 ### 📬 Connect & Hire
 
-- **LinkedIn:** [linkedin.com/in/ramanan-d-](https://www.linkedin.com/in/ramanan-d-/)
-- **Email:** [ramanan.d2735@gmail.com](mailto:ramanan.d2735@gmail.com)
+- **LinkedIn:** [linkedin.com/in/ramanan-d](https://www.linkedin.com/in/ramanan-d/)
+- **Email:** [ramanan2735@gmail.com](mailto:ramanan2735@gmail.com)
 - **GitHub:** [github.com/ramanan-2735](https://github.com/ramanan-2735)
 
 ---
