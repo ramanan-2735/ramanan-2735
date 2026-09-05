@@ -49,7 +49,6 @@
 | Project | Tech Stack | Highlights |
 | :--- | :--- | :--- |
 | 🪕 **[Temple Management Suite](https://github.com/ramanan-2735)** | Next.js 14, NextAuth, Prisma, PostgreSQL | Staff billing portal for a real client. Manages Puja bookings, Devotee registers, digital invoicing, and Ghoshala metrics. |
-| 🎬 **[Amul Kool - Scroll Animation](https://github.com/ramanan-2735/amool-khool-website)** • ([Live Demo](https://amool-khool-website.vercel.app)) | HTML5 Canvas, JS, CSS3 | Milestone project (1st scroll animation) featuring 240-frame 2D HTML5 Canvas image-sequence rendering synchronized on scroll. |
 | 🎨 **[Kaviya Portfolio](https://github.com/ramanan-2735/kaviya-portfolio)** • ([Live Demo](https://kaviya-dhakkshinamoorthi-portfolio.vercel.app/)) | React 18, Vite, Tailwind CSS, Framer Motion | Production portfolio built for a freelance client (Kaviya) featuring responsive design and interactive motion effects. |
 | ⚖️ **[Advocate Khirbha Portfolio](https://github.com/ramanan-2735/khirbha-portfolio)** • ([Live Demo](https://khirbha-portfolio.vercel.app/)) | Next.js 15, Tailwind v4, Framer Motion | Production portfolio built for a freelance client (Advocate Khirbha Gounder, Mumbai) featuring glassmorphism design and animations. |
 | 🏥 **[Optho App](https://github.com/ramanan-2735/Optho-App)** | Node.js, Express, PostgreSQL, EJS, Tailwind | Hospital/Clinic management system with diagnostic canvas notes, automated WhatsApp/email hooks, and Google OAuth. |
