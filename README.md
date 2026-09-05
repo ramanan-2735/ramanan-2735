@@ -49,6 +49,7 @@
 | Project | Tech Stack | Highlights |
 | :--- | :--- | :--- |
 | 🪕 **[Temple Management Suite](https://github.com/ramanan-2735)** | Next.js 14, NextAuth, Prisma, PostgreSQL | Staff billing portal for a real client. Manages Puja bookings, Devotee registers, digital invoicing, and Ghoshala metrics. |
+| 🍅 **[Pomodoro — Deep Work Timer](https://github.com/ramanan-2735/pomodoro-timer)** • ([Live Demo](https://ramanan-2735.github.io/pomodoro-timer/)) | JavaScript, HTML5, CSS3 | Productivity timer featuring task queues, distraction logging, dark theme design tokens, and session analytics. |
 | 🎨 **[Kaviya Portfolio](https://github.com/ramanan-2735/kaviya-portfolio)** • ([Live Demo](https://kaviya-dhakkshinamoorthi-portfolio.vercel.app/)) | React 18, Vite, Tailwind CSS, Framer Motion | Production portfolio built for a freelance client (Kaviya) featuring responsive design and interactive motion effects. |
 | ⚖️ **[Advocate Khirbha Portfolio](https://github.com/ramanan-2735/khirbha-portfolio)** • ([Live Demo](https://khirbha-portfolio.vercel.app/)) | Next.js 15, Tailwind v4, Framer Motion | Production portfolio built for a freelance client (Advocate Khirbha Gounder, Mumbai) featuring glassmorphism design and animations. |
 | 🏥 **[Optho App](https://github.com/ramanan-2735/Optho-App)** | Node.js, Express, PostgreSQL, EJS, Tailwind | Hospital/Clinic management system with diagnostic canvas notes, automated WhatsApp/email hooks, and Google OAuth. |
